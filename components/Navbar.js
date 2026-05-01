@@ -15,6 +15,7 @@ export default function Navbar() {
         <li><Link href="/pages/about">About Us</Link></li>
         <li><Link href="/pages/photos">Photo Gallery</Link></li>
         <li><Link href="/pages/contact">Contact</Link></li>
+        <li><Link href="/pages/reviews">Reviews</Link></li>
       </ul>
     </nav>
   );
